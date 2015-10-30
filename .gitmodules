@@ -1,3 +1,3 @@
 [submodule "lib/NewUpdatesButton"]
 	path = lib/NewUpdatesButton
-	url = git@github.com:RubenKid/NewUpdatesButton
+	url = https://github.com/RubenKid/NewUpdatesButton.git
