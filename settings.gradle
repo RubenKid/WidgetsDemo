@@ -1,1 +1,2 @@
-include ':app'
+include ':app', ':NewUpdatesButton'
+project(':NewUpdatesButton').projectDir = new File('lib/NewUpdatesButton')
